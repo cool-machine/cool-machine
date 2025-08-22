@@ -12,7 +12,7 @@ At the forefront of artificial intelligence innovation, I specialize in developi
 - 🔬 **Research Focus**: Deep Learning, Probabilistic Graphical Models, Reinforcement Learning
 - 🏗️ **Engineering**: Full-stack AI applications with modern cloud architecture
 - 🎓 **Education**: The Wharton School + Advanced ML certifications
-- 🌍 **Languages**: English, French, Georgian, Russian (Native), Spanish
+- 🌍 **Languages**: English, French, Georgian(Native), Russian, Spanish
 
 ## 🛠️ Technical Stack
 
