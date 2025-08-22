@@ -11,7 +11,7 @@ At the forefront of artificial intelligence innovation, I specialize in developi
 
 - 🔬 **Research Focus**: Deep Learning, Probabilistic Graphical Models, Reinforcement Learning
 - 🏗️ **Engineering**: Full-stack AI applications with modern cloud architecture
-- 🎓 **Education**: The Wharton School + Advanced ML certifications
+- 🎓 **Education**: Master's AI Engineering (2025) + The Wharton School + Advanced ML certifications
 - 🌍 **Languages**: English, French, Georgian(Native), Russian, Spanish
 
 ## 🛠️ Technical Stack
@@ -74,7 +74,19 @@ At the forefront of artificial intelligence innovation, I specialize in developi
 - **[Conditional Random Fields for OCR](https://github.com/George1900/CRF-for-OCR)**: Training undirected model graphs
 - **[Tree-Structured Graphical Models](https://github.com/George1900/learning-tree-structured-graphical-model)**: Learning from body pose data
 
-### Certifications
+## 🎓 Education & Certifications
+
+### Master's in AI Engineering (2025)
+**Supélec & French Government Partnership Program**
+- Elite program designed specifically for senior AI engineers
+- Advanced curriculum: ML/AI/Deep Learning/Large Language Models
+- Balance of theoretical foundations and practical applications
+- Government-recognized specialization in AI engineering
+
+### Business Education
+**The Wharton School** - Business Administration & Strategic Leadership
+
+### Professional Certifications
 🏆 **Advanced Machine Learning with TensorFlow** - Google Cloud Platform  
 🏆 **Learning from Data (Machine Learning)** - Caltech
 
