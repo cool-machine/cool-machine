@@ -18,7 +18,7 @@
 I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabilistic Graphical Models**, and **Reinforcement Learning**. I specialize in developing production-grade ML systems from research to deployment, currently leading AI initiatives while building next-generation intelligent applications.
 
 **Quick Facts**
-- Master in AI Engineering @ Supélec (2026)
+- Master's degree in AI Engineering @ Supélec (2026)
 - MBA (Master of Business Administration) from The Wharton School
 - J.D. in Law from Tbilisi State University
 - LL.M. with distinction from the University of Strasbourg
@@ -243,7 +243,7 @@ Learning graphical models from body pose data
 
 ```text
 +-----------------------------------------------------------+
-| Master's in AI Engineering (2026)                         |
+| Master's degree in AI Engineering (2026)                  |
 | Supélec & French Government Partnership Program           |
 | - Elite program for senior AI engineers                   |
 | - ML/AI/Deep Learning/Large Language Models               |
