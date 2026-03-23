@@ -21,6 +21,8 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 - Based in Paris, France
 - AI Engineering @ Supélec (2026)
 - MBA from The Wharton School
+- J.D. in Law from Tbilisi State University
+- LL.M. with distinction from the University of Strasbourg
 - Interested in Deep Learning, Computer Vision, Graphical Models, Reinforcement Learning, and Large Language Models
 - Languages: English, French, Georgian, Russian, and Spanish
 
@@ -251,6 +253,12 @@ Learning graphical models from body pose data
 | MBA                                                       |
 | The Wharton School, University of Pennsylvania            |
 | - Strategy, Finance, Leadership                           |
++-----------------------------------------------------------+
+| J.D. in Law                                               |
+| Tbilisi State University                                  |
++-----------------------------------------------------------+
+| LL.M. with distinction                                    |
+| University of Strasbourg                                  |
 +-----------------------------------------------------------+
 ```
 
