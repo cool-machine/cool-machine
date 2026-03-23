@@ -95,7 +95,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 <tr>
 <td width="50%" valign="top">
 
-#### [Transformer-Based Image Segmentation](https://github.com/cool-machine/transformer-based-image-segmentation)
+#### [Transformer-Based Image Segmentation](https://github.com/cool-machine/transformer-based-image-segmentation-clean)
 
 **Production-ready computer vision system with dual model architecture**
 
@@ -112,7 +112,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 </td>
 <td width="50%" valign="top">
 
-#### [Hybrid Recommendation System](https://github.com/cool-machine/hybrid-recommendation-system)
+#### [Hybrid Recommendation System](https://github.com/cool-machine/hybrid-recommendation-system-clean)
 
 **Production-grade multi-algorithm recommendation engine**
 
@@ -155,7 +155,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 </td>
 <td width="50%" valign="top">
 
-#### [Enamel Georgia E-commerce](https://github.com/cool-machine/enamel_georgia)
+#### [Enamel Georgia E-commerce](https://github.com/cool-machine/enamel-georgia-clean)
 
 **Full-stack international e-commerce platform**
 
