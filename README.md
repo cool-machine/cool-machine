@@ -6,9 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cool-machine)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cool-machine.github.io)
 
-![Profile Views](https://komarev.com/ghpvc/?username=cool-machine&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/cool-machine?style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/cool-machine?style=flat-square&color=yellow)
 
 </div>
 
@@ -20,33 +17,12 @@
 
 I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabilistic Graphical Models**, and **Reinforcement Learning**. I specialize in developing production-grade ML systems from research to deployment, currently leading AI initiatives while building next-generation intelligent applications.
 
-```python
-class GeorgeGvishiani:
-    def __init__(self):
-        self.role = "AI Innovation Leader"
-        self.location = "Paris, France 🇫🇷"
-        self.education = {
-            "masters": "AI Engineering @ Supélec (2025)",
-            "business": "The Wharton School",
-            "certifications": ["Advanced ML with TensorFlow (Google)", "Caltech ML"]
-        }
-        self.research_interests = [
-            "Deep Learning",
-            "Computer Vision",
-            "Graphical Models",
-            "Reinforcement Learning",
-            "Large Language Models"
-        ]
-        self.languages = ["English", "French", "Georgian", "Russian", "Spanish"]
-
-    def current_focus(self):
-        return [
-            "Building production AI systems",
-            "Advanced transformer architectures",
-            "Enterprise ML at scale",
-            "AI for social impact"
-        ]
-```
+**Quick Facts**
+- Based in Paris, France
+- AI Engineering @ Supélec (2025)
+- Business and strategy studies at The Wharton School
+- Interested in Deep Learning, Computer Vision, Graphical Models, Reinforcement Learning, and Large Language Models
+- Languages: English, French, Georgian, Russian, and Spanish
 
 ---
 
@@ -264,15 +240,9 @@ Learning graphical models from body pose data
 
 ---
 
-## 💼 Professional Impact
+## 💼 Professional Focus
 
-<div align="center">
-
-| 📦 Repositories | ⭐ Stars | 🔀 Forks | 🚀 Live Apps | 🔬 Research Projects |
-|:---:|:---:|:---:|:---:|:---:|
-| 14+ | Growing | Growing | 4 | 3 |
-
-</div>
+I build applied AI products end to end, from experimentation and model development to deployment, product integration, and cloud operations.
 
 ### 🏗️ Architecture Expertise
 
@@ -311,16 +281,6 @@ Learning graphical models from body pose data
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=cool-machine&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/cool-machine)
-
-</div>
-
----
-
 ## 📬 Let's Connect!
 
 I'm always interested in discussing:
@@ -345,6 +305,5 @@ I'm always interested in discussing:
 
 ### *"Building the future of AI, one algorithm at a time."* 🤖✨
 
-![](https://hit.yhype.me/github/profile?user_id=38192290)
 
 </div>
