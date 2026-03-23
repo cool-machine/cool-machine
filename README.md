@@ -20,7 +20,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 **Quick Facts**
 - Based in Paris, France
 - AI Engineering @ Supélec (2026)
-- MBA-level business and strategy studies at The Wharton School
+- MBA from The Wharton School
 - Interested in Deep Learning, Computer Vision, Graphical Models, Reinforcement Learning, and Large Language Models
 - Languages: English, French, Georgian, Russian, and Spanish
 
@@ -92,7 +92,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### [Transformer-Based Image Segmentation](https://github.com/cool-machine/transformer-based-image-segmentation)
 
@@ -109,7 +109,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 📊 **Impact:** Real-time image segmentation for autonomous driving research
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### [Hybrid Recommendation System](https://github.com/cool-machine/hybrid-recommendation-system)
 
@@ -134,7 +134,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### GrantSeeker AI Platform
 
@@ -152,7 +152,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 💡 **Impact:** Automates grant applications for NGOs and researchers
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### [Enamel Georgia E-commerce](https://github.com/cool-machine/enamel_georgia)
 
@@ -173,7 +173,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### [CineDelices](https://github.com/cool-machine/cinedelices_simplified)
 
@@ -191,7 +191,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 💡 **Impact:** Connects entertainment discovery with interactive food content
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -201,7 +201,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
 #### Bayes Networks in Genetics
 
@@ -211,7 +211,7 @@ Probabilistic graphical models for gene classification
 🔬 **Methods:** Bayesian inference, DAGs
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 #### CRF for OCR
 
@@ -221,7 +221,7 @@ Conditional Random Fields for optical character recognition
 🔬 **Methods:** Undirected graphical models
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
 #### Tree-Structured Models
 
@@ -240,18 +240,18 @@ Learning graphical models from body pose data
 
 ### 🏛️ Academic Background
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│ 🎓 Master's in AI Engineering (2026)                        │
-│    Supélec & French Government Partnership Program          │
-│    • Elite program for senior AI engineers                  │
-│    • ML/AI/Deep Learning/Large Language Models             │
-│    • Government-recognized specialization                    │
-├─────────────────────────────────────────────────────────────┤
-│ 🏢 MBA-Level Business Administration & Strategic Leadership │
-│    The Wharton School, University of Pennsylvania          │
-│    • Strategy, Finance, Leadership                          │
-└─────────────────────────────────────────────────────────────┘
+```text
++-----------------------------------------------------------+
+| Master's in AI Engineering (2026)                         |
+| Supélec & French Government Partnership Program           |
+| - Elite program for senior AI engineers                   |
+| - ML/AI/Deep Learning/Large Language Models               |
+| - Government-recognized specialization                    |
++-----------------------------------------------------------+
+| MBA                                                       |
+| The Wharton School, University of Pennsylvania            |
+| - Strategy, Finance, Leadership                           |
++-----------------------------------------------------------+
 ```
 
 ### 🏆 Professional Certifications
@@ -317,7 +317,6 @@ I'm always interested in discussing:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/georgegvishiani/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cool-machine.github.io)
 
 </div>
