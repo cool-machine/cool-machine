@@ -19,7 +19,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 
 **Quick Facts**
 - Master in AI Engineering @ Supélec (2026)
-- MBA from The Wharton School
+- MBA (Master of Business Administration) from The Wharton School
 - J.D. in Law from Tbilisi State University
 - LL.M. with distinction from the University of Strasbourg
 - Interested in Deep Learning, Computer Vision, Graphical Models, Reinforcement Learning, and Large Language Models
@@ -249,7 +249,7 @@ Learning graphical models from body pose data
 | - ML/AI/Deep Learning/Large Language Models               |
 | - Government-recognized specialization                    |
 +-----------------------------------------------------------+
-| MBA                                                       |
+| MBA - Master of Business Administration                   |
 | The Wharton School, University of Pennsylvania            |
 | - Strategy, Finance, Leadership                           |
 +-----------------------------------------------------------+
