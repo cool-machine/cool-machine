@@ -18,7 +18,6 @@
 I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabilistic Graphical Models**, and **Reinforcement Learning**. I specialize in developing production-grade ML systems from research to deployment, currently leading AI initiatives while building next-generation intelligent applications.
 
 **Quick Facts**
-- Based in Paris, France
 - AI Engineering @ Supélec (2026)
 - MBA from The Wharton School
 - J.D. in Law from Tbilisi State University
