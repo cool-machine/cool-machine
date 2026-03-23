@@ -324,8 +324,7 @@ I'm always interested in discussing:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/georgegvishiani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cool-machine.github.io)
+[![Email](https://img.shields.io/badge/Email-Write%20to%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:george@whartonai.studio)
 
 </div>
 
