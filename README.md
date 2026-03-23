@@ -19,8 +19,8 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 
 **Quick Facts**
 - Based in Paris, France
-- AI Engineering @ Supélec (2025)
-- Business and strategy studies at The Wharton School
+- AI Engineering @ Supélec (2026)
+- MBA-level business and strategy studies at The Wharton School
 - Interested in Deep Learning, Computer Vision, Graphical Models, Reinforcement Learning, and Large Language Models
 - Languages: English, French, Georgian, Russian, and Spanish
 
@@ -136,12 +136,12 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 <tr>
 <td width="50%">
 
-#### [GrantSeeker AI Platform](https://github.com/cool-machine/grantseeker-ai-platform)
+#### GrantSeeker AI Platform
 
 **Complete AI-powered grant discovery and application platform**
 
 🔧 **Tech Stack:** React • TypeScript • Azure Functions • Google Gemma
-🌐 **[Live Demo →](https://cool-machine.github.io/grantseeker-ai-platform/)**
+🔒 **Visibility:** Private project
 
 🎯 **Features:**
 - PDF processing & intelligent form filling
@@ -172,6 +172,29 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+#### [CineDelices](https://github.com/cool-machine/cinedelices_simplified)
+
+**Movie-inspired recipe platform with AI-assisted creation**
+
+🔧 **Tech Stack:** Svelte • Express • PostgreSQL • Docker • Azure
+🌐 **[Live Demo →](https://cinedelices-frontend.calmglacier-7bdfaf80.canadacentral.azurecontainerapps.io)**
+
+🎯 **Features:**
+- Recipe sharing with authentication and admin workflows
+- TMDB integration for movie and TV context
+- AI-powered recipe generation
+- Responsive full-stack product experience
+
+💡 **Impact:** Connects entertainment discovery with interactive food content
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ### 🔬 Research Projects
@@ -180,7 +203,7 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 <tr>
 <td width="33%">
 
-#### [Bayes Networks in Genetics](https://github.com/George1900/BayesNetsGenetics)
+#### Bayes Networks in Genetics
 
 Probabilistic graphical models for gene classification
 
@@ -190,7 +213,7 @@ Probabilistic graphical models for gene classification
 </td>
 <td width="33%">
 
-#### [CRF for OCR](https://github.com/George1900/CRF-for-OCR)
+#### CRF for OCR
 
 Conditional Random Fields for optical character recognition
 
@@ -200,7 +223,7 @@ Conditional Random Fields for optical character recognition
 </td>
 <td width="33%">
 
-#### [Tree-Structured Models](https://github.com/George1900/learning-tree-structured-graphical-model)
+#### Tree-Structured Models
 
 Learning graphical models from body pose data
 
@@ -219,13 +242,13 @@ Learning graphical models from body pose data
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ 🎓 Master's in AI Engineering (2025)                        │
+│ 🎓 Master's in AI Engineering (2026)                        │
 │    Supélec & French Government Partnership Program          │
 │    • Elite program for senior AI engineers                  │
 │    • ML/AI/Deep Learning/Large Language Models             │
 │    • Government-recognized specialization                    │
 ├─────────────────────────────────────────────────────────────┤
-│ 🏢 Business Administration & Strategic Leadership           │
+│ 🏢 MBA-Level Business Administration & Strategic Leadership │
 │    The Wharton School, University of Pennsylvania          │
 │    • Strategy, Finance, Leadership                          │
 └─────────────────────────────────────────────────────────────┘
