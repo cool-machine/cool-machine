@@ -15,14 +15,14 @@
 
 **AI Innovation Leader | Machine Learning Engineer | Co-Founder & CTO**
 
-I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabilistic Graphical Models**, and **Reinforcement Learning**. I specialize in developing production-grade ML systems from research to deployment, currently leading AI initiatives while building next-generation intelligent applications.
+I work in **Machine Learning & AI** with a focus on **Generative AI**, **Deep Learning**, **Probabilistic Graphical Models**, and **Reinforcement Learning**. I specialize in developing production-grade ML systems from research to deployment, currently leading AI initiatives while building next-generation intelligent applications.
 
 **Quick Facts**
-- Master's degree in AI Engineering @ Supélec (2026)
+- MS in AI Engineering @ Supélec (2026)
 - MBA (Master of Business Administration) from The Wharton School
 - J.D. in Law from Tbilisi State University
 - LL.M. with distinction from the University of Strasbourg
-- Interested in Deep Learning, Computer Vision, Graphical Models, Reinforcement Learning, and Large Language Models
+- Interested in Generative AI, Deep Learning, NLP, Computer Vision, Time Series, and Recommendation Systems
 - Languages: English, French, Georgian, Russian, and Spanish
 
 ---
@@ -43,9 +43,11 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
 
 **Specializations:**
+- 🤖 Generative AI: LLMs, RAG systems, agentic workflows, prompt engineering
 - 🧠 Deep Learning: CNNs, RNNs, Transformers, GANs
 - 👁️ Computer Vision: Image Segmentation (SegFormer, UNet), Object Detection
 - 📝 NLP: LLMs, RAG Systems, Document AI, Text Generation
+- 📈 Time Series: Forecasting, sequence modeling, trend analysis
 - 🎯 Recommendation Systems: Collaborative Filtering, Matrix Factorization, Neural Networks
 - 📊 Probabilistic Models: Bayesian Networks, CRFs, Graphical Models
 
@@ -137,39 +139,38 @@ I work in **Machine Learning & AI** with a focus on **Deep Learning**, **Probabi
 <tr>
 <td width="50%" valign="top">
 
-#### GrantSeeker AI Platform
+#### GrantSeeker LangGraph AI Agents
 
-**Complete AI-powered grant discovery and application platform**
+**Advanced multi-agent grant writing system**
 
-🔧 **Tech Stack:** React • TypeScript • Azure Functions • Google Gemma
+🔧 **Tech Stack:** LangGraph • DeepSeek R1 • GPT-4o Vision • TypeScript • Azure
 🔒 **Visibility:** Private project
 
 🎯 **Features:**
-- PDF processing & intelligent form filling
-- Advanced grant matching algorithms
-- Multi-stage application workflow
-- AI-powered document analysis
+- 8 collaborative AI agents for grant writing workflows
+- 4 streaming interfaces with real-time visualization
+- GPT-4o Vision for PDF processing
+- Modern Telegraph-style UI with glassmorphism
 
-💡 **Impact:** Automates grant applications for NGOs and researchers
+💡 **Impact:** Accelerates grant discovery and application drafting for NGOs and researchers
 
 </td>
 <td width="50%" valign="top">
 
-#### [Enamel Georgia E-commerce](https://github.com/cool-machine/enamel-georgia-clean)
+#### [Wharton Alumni AI Studio](https://github.com/cool-machine/waais-v2)
 
-**Full-stack international e-commerce platform**
+**Public-facing website for the Wharton Alumni AI Studio**
 
-🔧 **Tech Stack:** React • TypeScript • Node.js • PostgreSQL • Prisma
-🌐 **[Live Shop →](https://cool-machine.github.io/enamel_georgia/)**
+🔧 **Tech Stack:** HTML • CSS • JavaScript • GitHub Pages
+🌐 **[Live Site →](https://cool-machine.github.io/waais-v2/)**
 
 🎯 **Features:**
-- Bilingual support (English/Georgian)
-- 217+ product catalog with real specs
-- Advanced filtering & search
-- Real-time inventory management
-- Secure checkout with Stripe
+- Clear presentation of community initiatives
+- AI-focused programming and alumni-facing content
+- Professional information architecture
+- Lightweight public-site delivery via GitHub Pages
 
-📊 **Scale:** Production-ready for international sales
+💡 **Impact:** Supports alumni community visibility and AI-focused programming
 
 </td>
 </tr>
@@ -243,7 +244,7 @@ Learning graphical models from body pose data
 
 ```text
 +-----------------------------------------------------------+
-| Master's degree in AI Engineering (2026)                  |
+| MS in AI Engineering (2026)                               |
 | Supélec & French Government Partnership Program           |
 | - Elite program for senior AI engineers                   |
 | - ML/AI/Deep Learning/Large Language Models               |
@@ -299,7 +300,7 @@ I build applied AI products end to end, from experimentation and model developme
 |------------|--------------|--------------|-------------|
 | Advanced transformer architectures | Scalable ML systems | AI for finance & technology | Open source contributions |
 | Multimodal learning | Production AI deployment | Edge AI applications | Technical mentorship |
-| Reinforcement learning | ML infrastructure | AI for social impact | Knowledge sharing |
+| Generative AI systems | ML infrastructure | AI for social impact | Knowledge sharing |
 
 </div>
 
